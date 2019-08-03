@@ -1,0 +1,12 @@
+[package]
+name = "chip_8_emulator"
+version = "0.1.0"
+authors = ["Spencer Davies <spencerhdavies@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "chip8"
+
+[dependencies]
+piston_window = "0.102.0"
+rand = "0.7.0"

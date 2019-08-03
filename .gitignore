@@ -1,0 +1,4 @@
+.DS_STORE
+/target
+**/*.rs.bk
+c8games
